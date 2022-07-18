@@ -31,13 +31,13 @@ Here's a walkthrough of implemented user stories:
 
 Part 1:
 
-<img src="https://i.imgur.com/XUY6sHk.gif" width=45% height=45%/>
-<br/><br/>
+<img src="https://i.imgur.com/XUY6sHk.gif" width=55% height=55%/>
+<br/>
 
 Part 2:
 
-<img src="https://i.imgur.com/XXvV3z5.gif" width=45% height=45%/>
-<br/><br/>
+<img src="https://i.imgur.com/XXvV3z5.gif" width=55% height=55%/>
+<br/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
