@@ -30,11 +30,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Part 1:
-![](https://i.imgur.com/XUY6sHk.gif)
+
+<img src="https://i.imgur.com/XUY6sHk.gif" width=45% height=45%/>
+<br/><br/>
 
 Part 2:
-![](https://i.imgur.com/XXvV3z5.gif)
 
+<img src="https://i.imgur.com/XXvV3z5.gif" width=45% height=45%/>
+<br/><br/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
